@@ -11,35 +11,34 @@ redirect_from:
 
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* B.S. in Software Engineering, Xi'an Jiaotong University, 2028 (expected)
+  * 西安交通大学软件工程学院
+  * 专业：软件工程
 
 Work experience
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* 暂无相关工作经验
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
+Projects and Research
+======
+* 正在学习高性能计算和异构编程相关技术
+* 参与开源项目开发 (GitHub: @Delicate314)
   
 Skills
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Programming Languages
+  * C/C++
+  * Python
+  * Java
+  * JavaScript/HTML/CSS
+* Technologies & Frameworks
+  * SYCL (异构编程)
+  * OpenMP, MPI (并行计算)
+  * Git/GitHub (版本控制)
+  * Linux系统管理
+* Languages
+  * 中文 (母语)
+  * English (流利)
 
 Publications
 ======
@@ -61,4 +60,4 @@ Teaching
   
 Service and leadership
 ======
-* Currently signed in to 43 different slack teams
+* 暂无相关服务经历
